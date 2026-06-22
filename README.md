@@ -102,7 +102,7 @@ To develop a comprehensive sales analytics dashboard that enables stakeholders t
 
 ## Dashboard demo
 
-Dashboard link - https://github.com/Jadhav-Sameer/Ecommerce-Sales-Dashboard-using-PowerBi/edit/main/Dashboard_Screenshot.png
+Dashboard link - https://github.com/Jadhav-Sameer/Ecommerce-Sales-Dashboard-using-PowerBi/blob/main/Dashboard_Screenshot.png
 
 ## Future Enhancements
 
